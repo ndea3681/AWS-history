@@ -2,3 +2,4 @@ AWS-history changelog:
 AWS-history: Update changelog 2023-09-10
 AWS-history: Update changelog 2023-09-11
 AWS-history: Update changelog 2023-09-12
+AWS-history: Update changelog 2023-09-13
