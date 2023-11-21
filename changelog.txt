@@ -72,3 +72,4 @@ AWS-history: Update changelog 2023-11-18
 AWS-history: Update changelog 2023-11-19
 AWS-history: Update changelog 2023-11-20
 AWS-history: Update changelog 2023-11-21
+AWS-history: Update changelog 2023-11-22
